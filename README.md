@@ -1,3 +1,9 @@
+## Executive Summary
+
+This portfolio artifact showcases the design and implementation of a thermostat control system developed for CS-350 Emerging Systems Architecture & Technologies at Southern New Hampshire University. The project demonstrates finite state machine design, embedded-style hardware interaction, and structured control logic implemented in Python.
+
+The system integrates real-time temperature monitoring, hardware input handling, LED output signaling, and multithreaded execution to simulate real-world embedded thermostat behavior. This artifact reflects my ability to design maintainable, reliable systems while working within hardware constraints and debugging complex runtime issues.
+
 # Thermostat State Machine – Embedded Systems Portfolio Artifact
 
 **Course:** CS-350 Emerging Systems Architecture & Technologies  
@@ -121,3 +127,14 @@ The codebase was structured to be readable, modular, and maintainable. Responsib
 ## Reflection and Portfolio Context
 
 This artifact represents a significant milestone in my development as a computer science student. It demonstrates my ability to design, implement, debug, and refine an embedded-style system while managing real-world constraints. The lessons learned from this project—particularly in persistence, debugging, and system design—will directly inform my future work in emerging systems and related fields.
+## Selected Portfolio Artifacts
+
+The following artifacts were selected for inclusion in my CS-350 portfolio submission:
+
+1. **Thermostat Control Program (Thermostat.py)**  
+   Demonstrates embedded-style finite state machine logic, hardware input handling, LED output control, multithreading, and real-time system behavior.
+
+2. **Thermostat State Machine Design Documentation**  
+   Visual and written documentation illustrating system states, transitions, and control logic used to ensure predictable and safe operation.
+
+These artifacts were chosen because they best represent my technical strengths in emerging systems architecture, embedded design principles, and hardware/software integration.
